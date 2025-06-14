@@ -1,16 +1,16 @@
 @font-face {
     font-family: poppins-reg;
-    src: url(fonts/Poppins-Regular.ttf);
+    src: url(Poppins-Regular.ttf);
 }
 
 @font-face {
     font-family: poppins-bold;
-    src: url(fonts/Poppins-Bold.ttf);
+    src: url(Poppins-Bold.ttf);
 }
 
 @font-face {
     font-family: nimbus;
-    src: url(fonts/TAN-NIMBUS.ttf);
+    src: url(TAN-NIMBUS.ttf);
 } 
 
 body {
